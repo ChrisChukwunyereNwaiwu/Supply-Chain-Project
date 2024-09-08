@@ -1,25 +1,25 @@
 # Supply Chain Optimization Project
 
 ## Overview
-This project focuses on optimizing supply chain operations using data analysis and machine learning techniques. The objective is to develop a model that can predict key aspects of the supply chain, such as demand forecasting, inventory management, and efficient resource allocation. The dataset includes various features that influence supply chain performance, and the project aims to improve decision-making processes within this domain.
+This project uses data analysis and machine learning techniques to optimise supply chain operations. The objective is to develop a model that can predict key aspects of the supply chain, such as demand forecasting, inventory management, and efficient resource allocation. The dataset includes various features that influence supply chain performance, and the project aims to improve decision-making processes within this domain.
 
 ## Project Structure
 
-- **Supplychain_Project_.ipynb**: This is the main Jupyter notebook containing all the steps involved in data analysis, preprocessing, model training, and evaluation.
-- **Data**: Includes the datasets used for training and testing the models.
-- **Models**: Contains trained machine learning models and scripts used to train them.
-- **Visualizations**: Graphs and plots that show the results of the analysis and model performance.
+- `Supplychain_Project_.ipynb`: This is the main Jupyter notebook containing all the steps involved in data analysis, preprocessing, model training, and evaluation.
+- `Data`: Includes the datasets used for training and testing the models.
+- `Models`: Contains trained machine learning models and scripts used to train them.
+- `Visualizations`: Graphs and plots that show the results of the analysis and model performance.
 
 ## Key Features
 
-- **Data Preprocessing**: Handling missing values, feature scaling, and feature engineering to prepare the data for modeling.
-- **Exploratory Data Analysis (EDA)**: In-depth analysis of the data to identify patterns, correlations, and trends within the supply chain context.
-- **Machine Learning Models**: Multiple models were trained and evaluated, including:
+- `Data Preprocessing`: Handling missing values, feature scaling, and feature engineering to prepare the data for modeling.
+- `Exploratory Data Analysis (EDA)`: In-depth analysis of the data to identify patterns, correlations, and trends within the supply chain context.
+- `Machine Learning Models`: Multiple models were trained and evaluated, including:
   - Linear Regression
   - Decision Trees
   - Random Forest
   - XGBoost
-- **Evaluation Metrics**: Metrics such as RMSE, MAE, and R² are used to evaluate model performance.
+- `Evaluation Metrics`: Metrics such as RMSE, MAE, and R² are used to evaluate model performance.
 
 ## Installation and Setup
 
